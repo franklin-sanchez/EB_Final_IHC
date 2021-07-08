@@ -1,0 +1,137 @@
+*{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: dimgray;
+}
+.logotipo{
+    width: 45px;
+    padding: 0px;
+    margin: 0;
+
+}
+.d-flex{
+    border-radius: 50px;
+    background-color: #E9E9F1;
+    width: 370px;
+    height: 40px;
+    border: none;
+}
+.form-control{
+    border-radius: 50px;
+    border-radius: 50px;
+    background-color: #E9E9F1;
+    width: 370px;
+    height: 40px;
+    border: none;
+}
+#btnSubmit{
+    border-radius: 50px;
+    width: auto;
+    border: none;
+}
+.searchi{
+    position: relative;
+    top: 10px;
+    right: 5px;
+    padding: 10px;
+    color: #6C757D;
+}
+.fa-user{
+    font-size: 12px;
+}
+
+/*Home*/
+
+.titulo01{
+    background-color: #000;
+    color: #E9E9F1;
+}
+.titulo02{
+    background-color: #2B2B2B;
+    color: #ffffff;
+    padding: 2px;
+
+}
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    bottom: 20px;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+.btn-light {
+    color: #f3f5f7;
+    background-color: transparent;
+    border-color: #f8f9fa;
+    border: 2px solid #fff;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+
+#image1{
+
+    height: 600px;
+}
+
+
+.planes{
+    color: #000000;
+    text-align: justify;
+}
+
+.profesionales{
+    text-align: center;
+}
+.ProfesionalImg{
+    background-size: cover;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+/*Nuestros planes  btn*/
+.btn-success {
+    margin-left: 50px;
+    color: #ffffff;
+    background-color: #000;
+    border-color: #000000;
+    border: 2px solid #000;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.btn-dark {
+    margin-left: 50px;
+    color: #ffffff;
+    background-color: #000;
+    border-color: #000000;
+    border: 2px solid #000;
+
+}
+
+
+/*chart*/
+.chart{
+    margin: 50px auto;
+    width: 1000px;
+    height: 500px;
+    background-color: #E9E9F1;
+}
+
+footer{
+    background-color: #000000;
+}
+.facebook, .messenger,.whatsapp, .mensaje{
+   font-size: 15px;
+}
+
